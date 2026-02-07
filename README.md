@@ -7,7 +7,7 @@ Beanstalk farmer is designed to be a very simple web-based interface for monitor
 Beanstalk farmer is distributed as a docker image. You can pull the latest version from Docker Hub:
 
 ```bash
-docker pull ghcr.io/tharbakim/beanstalk-farmer:latest
+docker pull tharbakim/beanstalk-farmer:latest
 ```
 
 ## Usage
