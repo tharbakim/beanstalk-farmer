@@ -19,4 +19,3 @@ Once the container has been started, you can access the web interface by navigat
 Beanstalk farmer can be configured using environment variables. The following variables are available:
 - `BEANSTALK_HOST`: The hostname or IP address of the Beanstalkd server (default: `localhost`)
 - `BEANSTALK_PORT`: The port number of the Beanstalkd server (default: `11300`)
-
